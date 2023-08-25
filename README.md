@@ -1,4 +1,7 @@
 # Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023
+![IMG5 - Copy](https://github.com/aniiketbarphe/Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023/assets/84449238/ebc98351-39c1-418c-935b-b40d457f5e7f)
+
+
 
 **A) About Hackathon:-**
 
@@ -9,7 +12,7 @@ According to a World Health Organization report, the number of deaths caused by 
 Evidence-based treatment for assistance in smoking cessation had been proposed and promoted. however, only less than one third of the participants could achieve the goal of abstinence. Many physicians found counseling for smoking cessation ineffective and time-consuming, and did not routinely do so in daily practice. To overcome this problem, several factors had been proposed to identify smokers who had a better chance of quitting, including the level of nicotine dependence, exhaled carbon monoxide (CO) concentration, cigarette amount per day, the age at smoking initiation, previous quit attempts, marital status, emotional distress, temperament and impulsivity scores, and the motivation to stop smoking. However, individual use of these factors for prediction could lead to conflicting results that were not straightforward enough for the physicians and patients to interpret and apply. Providing a prediction model might be a favorable way to understand the chance of quitting smoking for each individual smoker. Health outcome prediction models had been developed using methods of machine learning over recent years.
 
 A group of scientists are working on predictive models with smoking status as the prediction target.Your task is to help them create a machine learning model to identify the smoking status of an individual using bio-signals
-
+#
 **B) About the Dataset:-** Dataset contains following files,
 
 **b1) Train:-**  rows x  columns
@@ -63,9 +66,9 @@ A group of scientists are working on predictive models with smoking status as th
 **22) dental caries**
 
 **23) smoking**
-
+#
 **C) Evaluation metric:-** The submission will be evaluated using the F1 Score
-
+#
 **D) Public and Private Split:-**
 
 d1) This hackathon supports private and public leaderboards
