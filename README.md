@@ -1,5 +1,7 @@
 # Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023
 
+**A) About Hackathon:-**
+
 Smoking has been proven to negatively affect health in a multitude of ways.Smoking has been found to harm nearly every organ of the body, cause many diseases, as well as reducing the life expectancy of smokers in general. As of 2018, smoking has been considered the leading cause of preventable morbidity and mortality in the world, continuing to plague the world’s overall health.
 
 According to a World Health Organization report, the number of deaths caused by smoking will reach 10 million by 2030.
@@ -8,39 +10,45 @@ Evidence-based treatment for assistance in smoking cessation had been proposed a
 
 A group of scientists are working on predictive models with smoking status as the prediction target.Your task is to help them create a machine learning model to identify the smoking status of an individual using bio-signals
 
-Dataset Description - 
+**B) About the Dataset:-** Dataset contains following files,
 
-age : 5-years gap
+**b1) Train:-**  rows x  columns
 
-height(cm)
+**b2) Test:-**  rows x  columns
 
-weight(kg)
+**b3) Data description:-**
 
-waist(cm) : Waist circumference length
+**1) age :** 5-years gap
 
-eyesight(left)
+**2) height(cm)**
 
-eyesight(right)
+**3) weight(kg)**
 
-hearing(left)
+**4) waist(cm) :** Waist circumference length
 
-hearing(right)
+**5) eyesight(left)**
 
-systolic : Blood pressure
+**6) eyesight(right)**
 
-relaxation : Blood pressure
+**7) hearing(left)**
 
-fasting blood sugar
+**8) hearing(right)**
 
-Cholesterol : total
+**9) systolic :** Blood pressure
 
-triglyceride
+**10) relaxation :** Blood pressure
 
-HDL : cholesterol type
+**11) fasting blood sugar**
 
-LDL : cholesterol type
+**12) Cholesterol :** total
 
-hemoglobin
+**13) triglyceride**
+
+**14) HDL :** cholesterol type
+
+**15) LDL :** cholesterol type
+
+**16) hemoglobin**
 
 Urine protein
 
