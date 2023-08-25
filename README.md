@@ -50,16 +50,26 @@ A group of scientists are working on predictive models with smoking status as th
 
 **16) hemoglobin**
 
-Urine protein
+**17) Urine protein**
 
-serum creatinine
+**18) serum creatinine**
 
-AST : glutamic oxaloacetic transaminase type
+**19) AST :** glutamic oxaloacetic transaminase type
 
-ALT : glutamic oxaloacetic transaminase type
+**20) ALT :** glutamic oxaloacetic transaminase type
 
-Gtp : γ-GTP
+**21) Gtp :** γ-GTP
 
-dental caries
+**22) dental caries**
 
-smoking
+**23) smoking**
+
+**C) Evaluation metric:-** The submission will be evaluated using the F1 Score
+
+**D) Public and Private Split:-**
+
+d1) This hackathon supports private and public leaderboards
+
+d2) The public leaderboard is evaluated on 50% of Test data
+
+d3) The private leaderboard will be made available at the end of the hackathon which will be evaluated on 100% of Test data
