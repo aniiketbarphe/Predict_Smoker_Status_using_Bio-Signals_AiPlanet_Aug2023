@@ -1,8 +1,9 @@
 # Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023
 ![IMG5 - Copy](https://github.com/aniiketbarphe/Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023/assets/84449238/ebc98351-39c1-418c-935b-b40d457f5e7f)
 
+![VIMP-IMG](https://github.com/aniiketbarphe/Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023/assets/84449238/ebe5ee19-f6da-4e0d-91a2-c91c2ebd73a6)
 
-
+#
 **A) About Hackathon:-**
 
 Smoking has been proven to negatively affect health in a multitude of ways.Smoking has been found to harm nearly every organ of the body, cause many diseases, as well as reducing the life expectancy of smokers in general. As of 2018, smoking has been considered the leading cause of preventable morbidity and mortality in the world, continuing to plague the world’s overall health.
