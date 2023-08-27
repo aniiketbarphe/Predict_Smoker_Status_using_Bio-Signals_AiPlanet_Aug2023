@@ -1,3 +1,5 @@
+![IMAGE-27082023-1143 - Copy](https://github.com/aniiketbarphe/Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023/assets/84449238/02b851a3-5a6f-43a1-9e87-a1abe61eba02)
+
 # Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023
 ![IMG5 - Copy](https://github.com/aniiketbarphe/Predict_Smoker_Status_using_Bio-Signals_AiPlanet_Aug2023/assets/84449238/ebc98351-39c1-418c-935b-b40d457f5e7f)
 
